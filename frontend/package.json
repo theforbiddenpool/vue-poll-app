@@ -1,6 +1,10 @@
 {
   "name": "vue-poll-app",
   "version": "0.0.0",
+  "description": "just another poll app (frontend)",
+  "repository": "https://github.com/theforbiddenpool/vue-poll-app",
+  "author": "theforbiddenpool <contact@theforbiddenpool.com>",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "vite",
